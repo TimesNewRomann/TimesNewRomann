@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Seonwoo An.
-# 💻interest
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img alt ="ROS2" src ="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=Ros&logoColor=white"/>
+# 💻interest: <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img alt ="ROS2" src ="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=Ros&logoColor=white"/>
 </br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <!--
 **TimesNewRomann/TimesNewRomann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,6 @@
 ### Hi there 👋
+## interest
+https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white
 
 <!--
 **TimesNewRomann/TimesNewRomann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

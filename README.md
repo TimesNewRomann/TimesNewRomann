@@ -2,7 +2,7 @@
 <h2> Hi there 👋 I'm Seonwoo An.</h2>
 <h3>💻interest</h3>  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img alt ="ROS2" src ="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=Ros&logoColor=white"/> 
   
-</br>![Seonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimesNewRomann&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br>![Seonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimesNewRomann&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimesNewRomann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TimesNewRomann/TimesNewRomann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
